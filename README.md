@@ -40,3 +40,5 @@ comparisons
 5. Provide orientation to the important points found in
 step 3
 6. Identifying the key features uniquely.
+
+<br><br><br>More details on this [website](https://docs.opencv.org/4.x/da/df5/tutorial_py_sift_intro.html), and this [book](https://drive.google.com/file/d/1-9nGcvsh-ueEHQweB6VeciX7tZIURJ_m/view?usp=sharing)
